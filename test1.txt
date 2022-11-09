@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 7265-F7B8
+
+ Directory of C:\Users\Lokesha Poojary\Desktop\new git prjct
+
+09-11-2022  17:13    <DIR>          .
+09-11-2022  17:11    <DIR>          ..
+09-11-2022  17:13                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  446,630,146,048 bytes free
